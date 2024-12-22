@@ -1,31 +1,19 @@
 aid: army-national-guard
-name: Army National Guard
-description: >-
-  © 2024 United States National Guard ELIGIBILITY. What It Takes; How to Join;
-  Basic Training; Currently Serving; Prior Service
-type: Index
-position: Consumer
-access: 3rd-Party
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
-created: '2024-12-03'
-modified: '2024-12-03'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/army-national-guard/refs/heads/main/apis.yml
-specificationVersion: '0.19'
-apis:
-  - aid: army-national-guard:army-national-guard
-    name: Army National Guard
-    description: >-
-      © 2024 United States National Guard ELIGIBILITY. What It Takes; How to
-      Join; Basic Training; Currently Serving; Prior Service
-    humanURL: https://nationalguard.com
-    tags:
-      - API
-    properties:
-      - type: Documentation
-        url: https://nationalguard.com
+tags:
+  - API
+type: Contract
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+access: 3rd-Party
+created: '2024-12-03'
+modified: '2024-12-22'
+position: Consuming
+description: >-
+  Â© 2024 United States National Guard ELIGIBILITY. What It Takes; How to Join;
+  Basic Training; Currently Serving; Prior Service
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
+specificationVersion: '0.19'
+name: Army National Guard
