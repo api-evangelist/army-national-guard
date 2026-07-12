@@ -58,6 +58,8 @@ apis:
       - type: Documentation
         url: https://www.nationalguard.mil/About/FOIA/
 common:
+  - type: DomainSecurity
+    url: security/army-national-guard-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/army-national-guard
   - type: Portal
