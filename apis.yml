@@ -3,6 +3,11 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/army-national-guard/refs/heads/main/apis.yml
 name: Army National Guard
 tags:
+  - Federal-Government
+  - Military
+  - Defense
+  - National Guard
+tags_raw:
   - Federal Government
   - Military
   - Defense
@@ -45,6 +50,11 @@ apis:
     humanURL: https://www.nationalguard.mil/Portals/31/Documents/About/NGB_Fact_Sheet.pdf
     baseURL: https://www.nationalguard.mil
     tags:
+      - Recruiting
+      - Military
+      - Job
+      - National Guard
+    tags_raw:
       - Recruiting
       - Military
       - Jobs
