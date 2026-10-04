@@ -3,7 +3,7 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/army-national-guard/refs/heads/main/apis.yml
 name: Army National Guard
 tags:
-  - Federal-Government
+  - Federal Government
   - Military
   - Defense
   - National Guard
@@ -12,6 +12,7 @@ tags_raw:
   - Military
   - Defense
   - National Guard
+  - Federal-Government
 type: Index
 deliveryModel:
   model: saas
