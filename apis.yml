@@ -92,6 +92,12 @@ apis:
       - type: Documentation
         url: https://www.nationalguard.mil/About/FOIA/
 common:
+  - type: Plans
+    url: plans/army-national-guard-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/army-national-guard-rate-limits.yml
+  - type: FinOps
+    url: finops/army-national-guard-finops.yml
   - type: DomainSecurity
     url: security/army-national-guard-domain-security.yml
   - type: LinkedIn
