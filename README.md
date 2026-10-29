@@ -1,4 +1,4 @@
-# Army National Guard (army-national-guard)
+# Army National Guard
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,84 +66,68 @@
 
 The Army National Guard is a reserve component of the United States Army that serves both the nation and individual states in times of need. Operating under the dual authority of the federal government and the fifty state governors, the Army National Guard provides trained and ready soldiers for overseas military operations, domestic disaster relief, homeland security, and civil support missions. Its primary data and digital services are focused on recruiting, career management, benefits administration, and public outreach. The National Guard Bureau (NGB) coordinates federal operations and maintains administrative systems under Title 10 and Title 32 of the United States Code.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/army-national-guard/refs/heads/main/apis.yml)
+**Areas:** Federal Government · Military · Defense · National Guard
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
+## Army National Guard on APIs.io
 
-## Tags:
+Everything profiled for Army National Guard is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/army-national-guard/](https://apis.io/providers/army-national-guard/)** — or go straight to one of the APIs or properties below.
 
- - Federal Government, Military, Defense, National Guard
+### APIs (2)
 
-## Timestamps
+- [Army National Guard Recruiting API](https://apis.io/apis/army-national-guard/recruiting-api/) — The Army National Guard Recruiting API provides access to job listings, Military Occupational Specialties (MOS), unit locations, and recruiter contact…
+- [Army National Guard FOIA Portal](https://apis.io/apis/army-national-guard/foia-api/) — The Freedom of Information Act (FOIA) portal for the Army National Guard and National Guard Bureau provides a mechanism for submitting FOIA requests,…
 
-- **Created:** 2024-12-03
-- **Modified:** 2026-04-19
+### Published properties
 
-## APIs
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-### Army National Guard Recruiting API
-The Army National Guard Recruiting API provides access to job listings, Military Occupational Specialties (MOS), unit locations, and recruiter contact information for prospective members interested in joining the National Guard. This supports the GoArmyGuard.com recruiting portal.
+#### Security (1)
 
-**Human URL:** [https://www.nationalguard.mil/Portals/31/Documents/About/NGB_Fact_Sheet.pdf](https://www.nationalguard.mil/Portals/31/Documents/About/NGB_Fact_Sheet.pdf)
+Authentication, trust centre, and vulnerability disclosure.
 
-#### Tags:
+- [Army National Guard Domain Security](https://apis.io/security/army-national-guard/army-national-guard-domain-security/)
 
- - Recruiting, Military, Jobs, National Guard
+#### Plans and pricing (1)
 
-#### Properties
+Published plans, tiers and prices.
 
-- [Documentation](https://www.nationalguard.mil/Recruiting/)
+- [Army National Guard Plans Pricing](https://apis.io/plans/army-national-guard/army-national-guard-plans-pricing/)
 
-### Army National Guard FOIA Portal
-The Freedom of Information Act (FOIA) portal for the Army National Guard and National Guard Bureau provides a mechanism for submitting FOIA requests, tracking request status, and accessing previously released records. Managed under the NGB FOIA Policy.
+#### Rate limits (1)
 
-**Human URL:** [https://www.nationalguard.mil/About/FOIA/](https://www.nationalguard.mil/About/FOIA/)
+Published request limits.
 
-#### Tags:
+- [Army National Guard Rate Limits](https://apis.io/rate-limits/army-national-guard/army-national-guard-rate-limits/)
 
- - FOIA, Government, Transparency, Open Government
+#### FinOps (1)
 
-#### Properties
+What the API costs to run, by operation.
 
-- [Documentation](https://www.nationalguard.mil/About/FOIA/)
+- [Army National Guard Finops](https://apis.io/finops/army-national-guard/army-national-guard-finops/)
 
-## Common Properties
+## Where to find this API
 
-- [Army National Guard Website](https://www.nationalguard.mil/)
-- [Resources](https://www.nationalguard.mil/Resources/)
-- [Army Guard GitHub Organization](https://github.com/armyguard)
-- [Web Policy and Terms](https://www.nationalguard.mil/About/Web-Policy/)
-- [Privacy Policy](https://www.nationalguard.mil/About/Web-Policy/)
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Features
+- [Documentation](https://www.nationalguard.mil/Resources/)
+- [Terms of service](https://www.nationalguard.mil/About/Web-Policy/)
+- [Privacy policy](https://www.nationalguard.mil/About/Web-Policy/)
+- [GitHub](https://github.com/armyguard)
 
-| Name | Description |
-|------|-------------|
-| Recruiting Portal | GoArmyGuard.com and the main recruiting portal allow prospective soldiers to search job listings by MOS, state, and skill, and connect with local recruiters. |
-| FOIA Request System | Online submission and tracking system for Freedom of Information Act requests to the National Guard Bureau and Army National Guard. |
-| Soldier Self-Service Portal | Current soldiers access pay, benefits, training records, and deployment orders through the Army self-service portal integrated with the National Guard. |
-| Unit Locator | Public-facing tool allowing citizens to find Army National Guard units and armory locations in their state or territory. |
+## API Evangelist rating
 
-## Use Cases
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Name | Description |
-|------|-------------|
-| Recruit Prospective Soldiers | Recruiters and prospective enlistees use the recruiting portal to search available MOS positions, explore benefits, and initiate the enlistment process. |
-| Submit FOIA Requests | Journalists, researchers, and citizens submit Freedom of Information Act requests for Army National Guard records and documents. |
-| Locate National Guard Units | Citizens and emergency managers find local National Guard units and armory locations for community engagement or emergency coordination. |
-| Access Soldier Benefits Information | Soldiers and their families access information on benefits including education assistance (Montgomery GI Bill), healthcare (TRICARE), and retirement benefits. |
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-## Integrations
+## How this profile is made
 
-| Name | Description |
-|------|-------------|
-| USA Jobs | Army National Guard job listings integrate with USAJobs.gov, the federal government's official employment site, for civil service and technician positions. |
-| MyArmyBenefits | Integration with the Army's official benefits counseling portal (myarmybenefits.us.army.mil) for National Guard member benefits information. |
-| Army Training Requirements and Resources System (ATRRS) | Training management system used by the National Guard to manage soldier training requirements and school seat reservations. |
-| Defense Finance and Accounting Service (DFAS) | Financial management integration for National Guard pay, travel reimbursement, and benefits payments processed through DFAS. |
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Maintainers
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Army National Guard: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-**FN:** Kin Lane
+## Open an issue
 
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/army-national-guard/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
